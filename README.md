@@ -5,7 +5,7 @@
 - 📍 **Location**: Tampa, Florida
 - ✉️ **Email**: manan.10ahuja@gmail.com
 - 🔗 **LinkedIn**: [in/mananahujaa](https://www.linkedin.com/in/mananahujaa/)
-- 🌐 **Portfolio**: [manan-portfolio.s3-website-us-east-1.amazonaws.com](http://manan-portfolio.s3-website-us-east-1.amazonaws.com/)
+- 🌐 **Portfolio**: [MananAhujaPortfolio](https://manan-portfolio.s3.amazonaws.com/index.html)
 
 ## Education
 
