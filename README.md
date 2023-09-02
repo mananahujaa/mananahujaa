@@ -1,6 +1,6 @@
-# Manan Ahuja - Portfolio
+# 👋🏻 Manan Ahuja - Portfolio
 
-![Manan Ahuja](https://link.to.your/profile/image.jpg)
+
 
 - 📍 **Location**: Tampa, Florida
 - ✉️ **Email**: manan.10ahuja@gmail.com
