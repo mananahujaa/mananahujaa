@@ -21,7 +21,7 @@
 - 📆 June 2023 - July 2023, Bangalore, India (Remote)
 - 🚀 Successfully deployed complex applications using Kubernetes, Docker, and AWS EC2.
 - 🌐 Demonstrated expertise in managing network services, reducing downtime, and improving stability.
-- 🤝 Collaborated on CI/CD pipelines and contributed to a Reddit clone project.
+- 🤝 Played an integral role in developing software and pipelines using Django(Python), APIs, and Jenkins.
 
 ### Systems Engineering Intern - Elite Quad Core Solutions LLC
 - 📆 June 2022 - August 2022, New York, NY (Remote)
