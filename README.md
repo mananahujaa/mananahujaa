@@ -12,7 +12,6 @@
 - 🎓 **Bachelor of Science in Computer Science**
   - 📘 Minor in Entrepreneurship and Innovation Engineering
   - 🏫 University of South Florida, Tampa, FL
-  - 📅 Expected Graduation: 2024
   - 📈 GPA: 3.37
 
 ## Experience
